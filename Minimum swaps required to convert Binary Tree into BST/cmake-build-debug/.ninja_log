@@ -1,0 +1,7 @@
+# ninja log v5
+287	5321	6687758445747388	CMakeFiles/Minimum_swaps_required_to_convert_Binary_Tree_into_BST.dir/Node.cpp.obj	9420ad946caae07a
+1	5384	6687758446056566	CMakeFiles/Minimum_swaps_required_to_convert_Binary_Tree_into_BST.dir/main.cpp.obj	54ddca7d5a40a0fc
+277	5449	6687758447233416	CMakeFiles/Minimum_swaps_required_to_convert_Binary_Tree_into_BST.dir/Tree.cpp.obj	9542b0404b5e109e
+5450	9600	6687758488555824	Minimum_swaps_required_to_convert_Binary_Tree_into_BST.exe	cc9590f49d1594b8
+6	1169	6687758855452696	CMakeFiles/Minimum_swaps_required_to_convert_Binary_Tree_into_BST.dir/main.cpp.obj	54ddca7d5a40a0fc
+1170	1665	6687758860349561	Minimum_swaps_required_to_convert_Binary_Tree_into_BST.exe	cc9590f49d1594b8

@@ -1,0 +1,9 @@
+# ninja log v5
+0	4868	6800352189538743	CMakeFiles/Disjoint_Set_Union_Implementation.dir/main.cpp.obj	f2e673b12fc06f9d
+4889	10854	6800352249312691	Disjoint_Set_Union_Implementation.exe	5cea3d3bdae77a83
+15	2060	6800354070168553	CMakeFiles/Disjoint_Set_Union_Implementation.dir/main.cpp.obj	f2e673b12fc06f9d
+2061	3619	6800354085722261	Disjoint_Set_Union_Implementation.exe	5cea3d3bdae77a83
+5	2060	6800354268775302	CMakeFiles/Disjoint_Set_Union_Implementation.dir/main.cpp.obj	f2e673b12fc06f9d
+2060	3946	6800354287544695	Disjoint_Set_Union_Implementation.exe	5cea3d3bdae77a83
+7	3197	6800376565672243	CMakeFiles/Disjoint_Set_Union_Implementation.dir/main.cpp.obj	f2e673b12fc06f9d
+3198	4827	6800376581967846	Disjoint_Set_Union_Implementation.exe	5cea3d3bdae77a83

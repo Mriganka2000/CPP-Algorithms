@@ -1,0 +1,3 @@
+"E:\clion\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Rhombus_Pattern_IBM.dir/objects.a
+F:\Msysys2\mingw64\bin\ar.exe cr CMakeFiles\Rhombus_Pattern_IBM.dir/objects.a @CMakeFiles\Rhombus_Pattern_IBM.dir\objects1.rsp
+F:\Msysys2\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Rhombus_Pattern_IBM.dir/objects.a -Wl,--no-whole-archive -o Rhombus_Pattern_IBM.exe -Wl,--out-implib,libRhombus_Pattern_IBM.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Rhombus_Pattern_IBM.dir\linklibs.rsp

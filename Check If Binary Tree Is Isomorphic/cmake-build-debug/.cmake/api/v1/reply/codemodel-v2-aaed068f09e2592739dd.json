@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Check_If_Binary_Tree_Is_Isomorphic",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Check_If_Binary_Tree_Is_Isomorphic::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Check_If_Binary_Tree_Is_Isomorphic-Debug-f839575c7b4f39eb5df9.json",
+					"name" : "Check_If_Binary_Tree_Is_Isomorphic",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/Clion Projects/Check If Binary Tree Is Isomorphic/cmake-build-debug",
+		"source" : "F:/Clion Projects/Check If Binary Tree Is Isomorphic"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

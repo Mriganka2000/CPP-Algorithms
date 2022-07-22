@@ -1,0 +1,3 @@
+F:/Clion Projects/Area Measurement IBM/cmake-build-debug/CMakeFiles/Area_Measurement_IBM.dir
+F:/Clion Projects/Area Measurement IBM/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Clion Projects/Area Measurement IBM/cmake-build-debug/CMakeFiles/rebuild_cache.dir

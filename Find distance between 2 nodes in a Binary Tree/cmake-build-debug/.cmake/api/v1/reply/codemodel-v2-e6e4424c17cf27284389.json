@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Find_distance_between_2_nodes_in_a_Binary_Tree",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Find_distance_between_2_nodes_in_a_Binary_Tree::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Find_distance_between_2_nodes_in_a_Binary_Tree-Debug-860467d5e5c4e89d866e.json",
+					"name" : "Find_distance_between_2_nodes_in_a_Binary_Tree",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/Clion Projects/Find distance between 2 nodes in a Binary Tree/cmake-build-debug",
+		"source" : "F:/Clion Projects/Find distance between 2 nodes in a Binary Tree"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

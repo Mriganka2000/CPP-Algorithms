@@ -1,0 +1,3 @@
+F:/Clion Projects/Decreasing Number of Visible Box/cmake-build-debug/CMakeFiles/Decreasing_Number_of_Visible_Box.dir
+F:/Clion Projects/Decreasing Number of Visible Box/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Clion Projects/Decreasing Number of Visible Box/cmake-build-debug/CMakeFiles/rebuild_cache.dir

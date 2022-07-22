@@ -1,0 +1,3 @@
+"E:\clion\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Check_If_Array_Pairs_Are_Divisible_by_k.dir/objects.a
+F:\Msysys2\mingw64\bin\ar.exe cr CMakeFiles\Check_If_Array_Pairs_Are_Divisible_by_k.dir/objects.a @CMakeFiles\Check_If_Array_Pairs_Are_Divisible_by_k.dir\objects1.rsp
+F:\Msysys2\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Check_If_Array_Pairs_Are_Divisible_by_k.dir/objects.a -Wl,--no-whole-archive -o Check_If_Array_Pairs_Are_Divisible_by_k.exe -Wl,--out-implib,libCheck_If_Array_Pairs_Are_Divisible_by_k.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Check_If_Array_Pairs_Are_Divisible_by_k.dir\linklibs.rsp

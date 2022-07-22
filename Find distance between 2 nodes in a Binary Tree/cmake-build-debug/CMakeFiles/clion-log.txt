@@ -1,0 +1,4 @@
+"E:\clion\CLion 221.4501.161\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=E:/clion/CLion 221.4501.161/bin/ninja/win/ninja.exe" -G Ninja -S "F:\Clion Projects\Find distance between 2 nodes in a Binary Tree" -B "F:\Clion Projects\Find distance between 2 nodes in a Binary Tree\cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: F:/Clion Projects/Find distance between 2 nodes in a Binary Tree/cmake-build-debug

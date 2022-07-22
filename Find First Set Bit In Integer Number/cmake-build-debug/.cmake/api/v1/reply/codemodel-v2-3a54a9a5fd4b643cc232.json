@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Find_First_Set_Bit_In_Integer_Number",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Find_First_Set_Bit_In_Integer_Number::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Find_First_Set_Bit_In_Integer_Number-Debug-fa3ddd3aceee13f0d7cb.json",
+					"name" : "Find_First_Set_Bit_In_Integer_Number",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/Clion Projects/Find First Set Bit In Integer Number/cmake-build-debug",
+		"source" : "F:/Clion Projects/Find First Set Bit In Integer Number"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

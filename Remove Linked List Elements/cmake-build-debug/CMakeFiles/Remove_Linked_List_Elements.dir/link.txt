@@ -1,0 +1,3 @@
+"E:\clion\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Remove_Linked_List_Elements.dir/objects.a
+F:\Msysys2\mingw64\bin\ar.exe cr CMakeFiles\Remove_Linked_List_Elements.dir/objects.a @CMakeFiles\Remove_Linked_List_Elements.dir\objects1.rsp
+F:\Msysys2\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Remove_Linked_List_Elements.dir/objects.a -Wl,--no-whole-archive -o Remove_Linked_List_Elements.exe -Wl,--out-implib,libRemove_Linked_List_Elements.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Remove_Linked_List_Elements.dir\linklibs.rsp

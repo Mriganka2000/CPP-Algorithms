@@ -1,0 +1,9 @@
+# ninja log v5
+185	2658	6689704286564948	CMakeFiles/Diagonal_Order_Traversal_Of_a_Binary_Tree.dir/Node.cpp.obj	48f1df9310489811
+1	2660	6689704286564948	CMakeFiles/Diagonal_Order_Traversal_Of_a_Binary_Tree.dir/main.cpp.obj	b12a761e46728516
+191	2776	6689704288791730	CMakeFiles/Diagonal_Order_Traversal_Of_a_Binary_Tree.dir/Tree.cpp.obj	438ecf4f1e39dc27
+2777	6884	6689704329863847	Diagonal_Order_Traversal_Of_a_Binary_Tree.exe	a6930f8dec0d2c7f
+3	748	6689704998856848	CMakeFiles/Diagonal_Order_Traversal_Of_a_Binary_Tree.dir/Tree.cpp.obj	438ecf4f1e39dc27
+759	1183	6689705003202384	Diagonal_Order_Traversal_Of_a_Binary_Tree.exe	a6930f8dec0d2c7f
+6	1592	6689705166955259	CMakeFiles/Diagonal_Order_Traversal_Of_a_Binary_Tree.dir/Tree.cpp.obj	438ecf4f1e39dc27
+1890	2496	6689705175959648	Diagonal_Order_Traversal_Of_a_Binary_Tree.exe	a6930f8dec0d2c7f

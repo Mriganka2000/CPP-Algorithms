@@ -1,0 +1,3 @@
+F:/Clion Projects/16 Bit Binary Representation/cmake-build-debug/CMakeFiles/16_Bit_Binary_Representation.dir
+F:/Clion Projects/16 Bit Binary Representation/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Clion Projects/16 Bit Binary Representation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

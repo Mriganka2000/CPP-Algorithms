@@ -1,0 +1,14 @@
+# ninja log v5
+1	2111	6688526789700379	CMakeFiles/Check_If_a_Binary_Tree_Is_BST.dir/Node.cpp.obj	29cb3548144cbd6b
+119	2143	6688526789959663	CMakeFiles/Check_If_a_Binary_Tree_Is_BST.dir/main.cpp.obj	cf8e3ea47d04b424
+122	2145	6688526789959663	CMakeFiles/Check_If_a_Binary_Tree_Is_BST.dir/Tree.cpp.obj	8c378cacd96ee664
+2146	4946	6688526818037670	Check_If_a_Binary_Tree_Is_BST.exe	5f2963387254a08a
+53	1335	6688527747128104	CMakeFiles/Check_If_a_Binary_Tree_Is_BST.dir/main.cpp.obj	cf8e3ea47d04b424
+1336	3847	6688527772228433	Check_If_a_Binary_Tree_Is_BST.exe	5f2963387254a08a
+2	797	6688529012486876	CMakeFiles/Check_If_a_Binary_Tree_Is_BST.dir/Tree.cpp.obj	8c378cacd96ee664
+797	1922	6688529023580668	Check_If_a_Binary_Tree_Is_BST.exe	5f2963387254a08a
+2	593	6688530061531454	CMakeFiles/Check_If_a_Binary_Tree_Is_BST.dir/main.cpp.obj	cf8e3ea47d04b424
+25	1728	6688531199036787	CMakeFiles/Check_If_a_Binary_Tree_Is_BST.dir/Tree.cpp.obj	8c378cacd96ee664
+56	510	6688532059877435	CMakeFiles/Check_If_a_Binary_Tree_Is_BST.dir/Tree.cpp.obj	8c378cacd96ee664
+41	511	6688532059897381	CMakeFiles/Check_If_a_Binary_Tree_Is_BST.dir/main.cpp.obj	cf8e3ea47d04b424
+511	1042	6688532065182488	Check_If_a_Binary_Tree_Is_BST.exe	5f2963387254a08a

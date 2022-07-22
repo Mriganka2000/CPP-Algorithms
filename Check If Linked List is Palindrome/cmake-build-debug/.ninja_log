@@ -1,0 +1,7 @@
+# ninja log v5
+1	7292	6689387649883389	CMakeFiles/Check_If_Linked_List_is_Palindrome.dir/main.cpp.obj	42274addbe93e13
+51	7462	6689387650192543	CMakeFiles/Check_If_Linked_List_is_Palindrome.dir/LinkedList.cpp.obj	f3230093fc296c10
+53	7463	6689387651225908	CMakeFiles/Check_If_Linked_List_is_Palindrome.dir/Node.cpp.obj	3ea9d123ca329cea
+7464	17542	6689387752748284	Check_If_Linked_List_is_Palindrome.exe	d86cd9762878c22
+208	884	6689387983404655	CMakeFiles/Check_If_Linked_List_is_Palindrome.dir/main.cpp.obj	42274addbe93e13
+885	1201	6689387986528661	Check_If_Linked_List_is_Palindrome.exe	d86cd9762878c22

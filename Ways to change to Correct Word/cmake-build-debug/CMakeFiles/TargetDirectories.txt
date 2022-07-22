@@ -1,0 +1,3 @@
+F:/Clion Projects/Ways to change to Correct Word/cmake-build-debug/CMakeFiles/Ways_to_change_to_Correct_Word.dir
+F:/Clion Projects/Ways to change to Correct Word/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Clion Projects/Ways to change to Correct Word/cmake-build-debug/CMakeFiles/rebuild_cache.dir

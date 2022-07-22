@@ -1,0 +1,13 @@
+# ninja log v5
+1	2372	6727865940456049	CMakeFiles/Sum_of_Left_Leaves.dir/main.cpp.obj	8e5c724b4781179e
+2378	3624	6727865953620871	Sum_of_Left_Leaves.exe	c7be3c8e7d487d12
+8	6781	6729247575464852	CMakeFiles/Sum_of_Left_Leaves.dir/main.cpp.obj	8e5c724b4781179e
+130	6784	6729247575464852	CMakeFiles/Sum_of_Left_Leaves.dir/BinaryTree.cpp.obj	6c3cc456457bb618
+6785	12534	6729247632920208	Sum_of_Left_Leaves.exe	c45d88822b3c1608
+88	2387	6729249276668445	CMakeFiles/Sum_of_Left_Leaves.dir/BinaryTree.cpp.obj	6c3cc456457bb618
+8	2478	6729249277546084	CMakeFiles/Sum_of_Left_Leaves.dir/main.cpp.obj	8e5c724b4781179e
+2479	6006	6729249313769195	Sum_of_Left_Leaves.exe	c45d88822b3c1608
+10	1772	6729249696672347	CMakeFiles/Sum_of_Left_Leaves.dir/BinaryTree.cpp.obj	6c3cc456457bb618
+1773	2763	6729249706466675	Sum_of_Left_Leaves.exe	c45d88822b3c1608
+6	1439	6729250388324575	CMakeFiles/Sum_of_Left_Leaves.dir/BinaryTree.cpp.obj	6c3cc456457bb618
+1440	2868	6729250402457265	Sum_of_Left_Leaves.exe	c45d88822b3c1608

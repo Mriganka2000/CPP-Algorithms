@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Clion Projects/Decreasing Number of Visible Box/main.cpp
+iostream
+-
+stdlib.h
+F:/Clion Projects/Decreasing Number of Visible Box/stdlib.h
+

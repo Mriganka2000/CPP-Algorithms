@@ -1,0 +1,3 @@
+F:/Clion Projects/String reverse/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+F:/Clion Projects/String reverse/cmake-build-debug/CMakeFiles/String_reverse.dir
+F:/Clion Projects/String reverse/cmake-build-debug/CMakeFiles/edit_cache.dir

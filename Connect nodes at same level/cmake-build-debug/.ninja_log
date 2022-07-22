@@ -1,0 +1,7 @@
+# ninja log v5
+218	2413	6688679373141952	CMakeFiles/Connect_nodes_at_same_level.dir/Node.cpp.obj	cad0ceb00a62c5f1
+2	2829	6688679377141250	CMakeFiles/Connect_nodes_at_same_level.dir/main.cpp.obj	1e61e3da0b996a8e
+197	3251	6688679381519562	CMakeFiles/Connect_nodes_at_same_level.dir/Tree.cpp.obj	8fbe2ccd489ac710
+3252	6846	6688679417440994	Connect_nodes_at_same_level.exe	58d6757c2fda1eda
+7	1525	6688679918148496	CMakeFiles/Connect_nodes_at_same_level.dir/Tree.cpp.obj	8fbe2ccd489ac710
+1526	2660	6688679929533359	Connect_nodes_at_same_level.exe	58d6757c2fda1eda

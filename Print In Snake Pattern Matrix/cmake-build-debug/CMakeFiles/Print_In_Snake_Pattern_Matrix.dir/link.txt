@@ -1,0 +1,3 @@
+"E:\clion\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Print_In_Snake_Pattern_Matrix.dir/objects.a
+F:\Msysys2\mingw64\bin\ar.exe cr CMakeFiles\Print_In_Snake_Pattern_Matrix.dir/objects.a @CMakeFiles\Print_In_Snake_Pattern_Matrix.dir\objects1.rsp
+F:\Msysys2\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Print_In_Snake_Pattern_Matrix.dir/objects.a -Wl,--no-whole-archive -o Print_In_Snake_Pattern_Matrix.exe -Wl,--out-implib,libPrint_In_Snake_Pattern_Matrix.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Print_In_Snake_Pattern_Matrix.dir\linklibs.rsp

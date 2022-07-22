@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Find_Kth_Ancestor_Of_The_given_Node_In_Binary_Tree",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Find_Kth_Ancestor_Of_The_given_Node_In_Binary_Tree::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Find_Kth_Ancestor_Of_The_given_Node_In_Binary_Tree-Debug-6a3e10b0872ec6e620d6.json",
+					"name" : "Find_Kth_Ancestor_Of_The_given_Node_In_Binary_Tree",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/Clion Projects/Find Kth Ancestor Of The given Node In Binary Tree/cmake-build-debug",
+		"source" : "F:/Clion Projects/Find Kth Ancestor Of The given Node In Binary Tree"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

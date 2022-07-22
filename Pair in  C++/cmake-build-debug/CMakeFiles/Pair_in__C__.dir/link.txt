@@ -1,0 +1,3 @@
+"E:\clion\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Pair_in__C__.dir/objects.a
+F:\Msysys2\mingw64\bin\ar.exe cr CMakeFiles\Pair_in__C__.dir/objects.a @CMakeFiles\Pair_in__C__.dir\objects1.rsp
+F:\Msysys2\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Pair_in__C__.dir/objects.a -Wl,--no-whole-archive -o Pair_in__C__.exe -Wl,--out-implib,libPair_in__C__.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Pair_in__C__.dir\linklibs.rsp

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Diagonal_Order_Traversal_Of_a_Binary_Tree",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Diagonal_Order_Traversal_Of_a_Binary_Tree::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Diagonal_Order_Traversal_Of_a_Binary_Tree-Debug-fc20ae2c8d19e5dfe60f.json",
+					"name" : "Diagonal_Order_Traversal_Of_a_Binary_Tree",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/Clion Projects/Diagonal Order Traversal Of a Binary Tree/cmake-build-debug",
+		"source" : "F:/Clion Projects/Diagonal Order Traversal Of a Binary Tree"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

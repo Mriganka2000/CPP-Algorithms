@@ -1,0 +1,3 @@
+"E:\clion\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Inverted_Hollow_Pyramid_IBM.dir/objects.a
+F:\Msysys2\mingw64\bin\ar.exe cr CMakeFiles\Inverted_Hollow_Pyramid_IBM.dir/objects.a @CMakeFiles\Inverted_Hollow_Pyramid_IBM.dir\objects1.rsp
+F:\Msysys2\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Inverted_Hollow_Pyramid_IBM.dir/objects.a -Wl,--no-whole-archive -o Inverted_Hollow_Pyramid_IBM.exe -Wl,--out-implib,libInverted_Hollow_Pyramid_IBM.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Inverted_Hollow_Pyramid_IBM.dir\linklibs.rsp

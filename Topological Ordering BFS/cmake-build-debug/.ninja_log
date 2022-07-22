@@ -1,0 +1,9 @@
+# ninja log v5
+0	4196	6794940557707092	CMakeFiles/Topological_Ordering_BFS.dir/main.cpp.obj	e050244a24a64100
+4201	5901	6794940574731555	Topological_Ordering_BFS.exe	49687b038b857b70
+10	1546	6794941332717666	CMakeFiles/Topological_Ordering_BFS.dir/main.cpp.obj	e050244a24a64100
+1547	2544	6794941342658291	Topological_Ordering_BFS.exe	49687b038b857b70
+6	2206	6794942370824193	CMakeFiles/Topological_Ordering_BFS.dir/main.cpp.obj	e050244a24a64100
+2207	2718	6794942375929455	Topological_Ordering_BFS.exe	49687b038b857b70
+1118	6165	6795114870299049	CMakeFiles/Topological_Ordering_BFS.dir/main.cpp.obj	e050244a24a64100
+6167	8450	6795114893530370	Topological_Ordering_BFS.exe	49687b038b857b70

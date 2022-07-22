@@ -1,0 +1,3 @@
+F:/Clion Projects/Game of Stones/cmake-build-debug/CMakeFiles/Game_of_Stones.dir
+F:/Clion Projects/Game of Stones/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Clion Projects/Game of Stones/cmake-build-debug/CMakeFiles/rebuild_cache.dir

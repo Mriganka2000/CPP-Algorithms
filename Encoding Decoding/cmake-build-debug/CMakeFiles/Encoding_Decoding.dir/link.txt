@@ -1,0 +1,3 @@
+"E:\clion\CLion 2021.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Encoding_Decoding.dir/objects.a
+F:\Msysys2\mingw64\bin\ar.exe cr CMakeFiles\Encoding_Decoding.dir/objects.a @CMakeFiles\Encoding_Decoding.dir\objects1.rsp
+F:\Msysys2\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Encoding_Decoding.dir/objects.a -Wl,--no-whole-archive -o Encoding_Decoding.exe -Wl,--out-implib,libEncoding_Decoding.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Encoding_Decoding.dir\linklibs.rsp

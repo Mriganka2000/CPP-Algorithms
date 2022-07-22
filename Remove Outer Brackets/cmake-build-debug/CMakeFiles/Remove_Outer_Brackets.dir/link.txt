@@ -1,0 +1,3 @@
+"E:\clion\CLion 2021.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Remove_Outer_Brackets.dir/objects.a
+F:\Msysys2\mingw64\bin\ar.exe cr CMakeFiles\Remove_Outer_Brackets.dir/objects.a @CMakeFiles\Remove_Outer_Brackets.dir\objects1.rsp
+F:\Msysys2\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Remove_Outer_Brackets.dir/objects.a -Wl,--no-whole-archive -o Remove_Outer_Brackets.exe -Wl,--out-implib,libRemove_Outer_Brackets.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Remove_Outer_Brackets.dir\linklibs.rsp

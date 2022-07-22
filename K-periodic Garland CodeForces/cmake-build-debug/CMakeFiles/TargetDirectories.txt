@@ -1,0 +1,3 @@
+F:/Clion Projects/K-periodic Garland CodeForces/cmake-build-debug/CMakeFiles/K_periodic_Garland_CodeForces.dir
+F:/Clion Projects/K-periodic Garland CodeForces/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Clion Projects/K-periodic Garland CodeForces/cmake-build-debug/CMakeFiles/rebuild_cache.dir

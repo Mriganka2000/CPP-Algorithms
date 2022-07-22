@@ -1,0 +1,3 @@
+F:/Clion Projects/Position of Chairs TCS/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Clion Projects/Position of Chairs TCS/cmake-build-debug/CMakeFiles/Position_of_Chairs_TCS.dir
+F:/Clion Projects/Position of Chairs TCS/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+"E:\clion\CLion 2021.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Count_Digit_in_Range.dir/objects.a
+F:\Msysys2\mingw64\bin\ar.exe cr CMakeFiles\Count_Digit_in_Range.dir/objects.a @CMakeFiles\Count_Digit_in_Range.dir\objects1.rsp
+F:\Msysys2\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Count_Digit_in_Range.dir/objects.a -Wl,--no-whole-archive -o Count_Digit_in_Range.exe -Wl,--out-implib,libCount_Digit_in_Range.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Count_Digit_in_Range.dir\linklibs.rsp

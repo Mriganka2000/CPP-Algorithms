@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.21)
+project(Find_Min_and_Max_element_from_an_Array_using_less_number_of_Comparisons)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Find_Min_and_Max_element_from_an_Array_using_less_number_of_Comparisons main.cpp)

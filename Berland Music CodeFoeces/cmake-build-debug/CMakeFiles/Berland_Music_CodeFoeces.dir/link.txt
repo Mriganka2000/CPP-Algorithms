@@ -1,0 +1,3 @@
+"E:\clion\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Berland_Music_CodeFoeces.dir/objects.a
+F:\Msysys2\mingw64\bin\ar.exe cr CMakeFiles\Berland_Music_CodeFoeces.dir/objects.a @CMakeFiles\Berland_Music_CodeFoeces.dir\objects1.rsp
+F:\Msysys2\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Berland_Music_CodeFoeces.dir/objects.a -Wl,--no-whole-archive -o Berland_Music_CodeFoeces.exe -Wl,--out-implib,libBerland_Music_CodeFoeces.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Berland_Music_CodeFoeces.dir\linklibs.rsp

@@ -1,0 +1,4 @@
+ToolSet: w64 10.0 (local)@F:\Msysys2\mingw64
+Options: 
+
+Options:-DCMAKE_MAKE_PROGRAM=E:/clion/CLion 221.4501.161/bin/ninja/win/ninja.exe

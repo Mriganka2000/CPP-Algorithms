@@ -1,0 +1,3 @@
+F:/Clion Projects/Print In Snake Pattern Matrix/cmake-build-debug/CMakeFiles/Print_In_Snake_Pattern_Matrix.dir
+F:/Clion Projects/Print In Snake Pattern Matrix/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Clion Projects/Print In Snake Pattern Matrix/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,15 @@
+//
+// Created by MRIGANKA on 3/11/2022.
+//
+
+#ifndef REMOVE_DUPLICATES_FROM_SORTED_LINKEDLIST_NODE_H
+#define REMOVE_DUPLICATES_FROM_SORTED_LINKEDLIST_NODE_H
+
+struct Node {
+    int data;
+    Node *next;
+
+    Node(int data);
+};
+
+#endif //REMOVE_DUPLICATES_FROM_SORTED_LINKEDLIST_NODE_H

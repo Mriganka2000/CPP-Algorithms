@@ -1,0 +1,7 @@
+# ninja log v5
+1	5161	6776618619613853	CMakeFiles/BFS_Shortest_Path_Code.dir/main.cpp.obj	1f840216aaaf6204
+5165	7244	6776618640417227	BFS_Shortest_Path_Code.exe	ffba3ba86468a7f4
+42	3473	6776674585641259	CMakeFiles/BFS_Shortest_Path_Code.dir/main.cpp.obj	1f840216aaaf6204
+3473	5077	6776674601658550	BFS_Shortest_Path_Code.exe	ffba3ba86468a7f4
+6	2169	6776674838037874	CMakeFiles/BFS_Shortest_Path_Code.dir/main.cpp.obj	1f840216aaaf6204
+2169	4061	6776674856976298	BFS_Shortest_Path_Code.exe	ffba3ba86468a7f4

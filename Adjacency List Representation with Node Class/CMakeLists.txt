@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.21)
+project(Adjacency_List_Representation_with_Node_Class)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(Adjacency_List_Representation_with_Node_Class main.cpp)
